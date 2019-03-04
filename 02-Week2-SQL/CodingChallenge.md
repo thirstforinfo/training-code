@@ -17,32 +17,28 @@
 
 **Precondition**: 0 < number ≤ 1000
 
-##Choose any one challenge to complete
-
+## Challenge 2 - Choose any one challenge to complete
 
 * Create a file <yourname>_CodingChallenge2_Week1.js within your _Project 0 repo_
 
-1. Return the nth fibonacci number
-
-  
+1. Return the nth fibonacci number  
   f(0) = 0
   f(1) = 1
   f(10) = 55
+  
 ```
-   challenge.fibonacci = function(n){
+challenge.fibonacci = function(n){
 			         //code		          
                                      };
 ```
 		_or_  
 		
-2. Sort array of integers
-  
-	f([2,4,5,1,3,1]) = [1,1,2,3,4,5]  
-
+2. Sort array of integers  
+	f([2,4,5,1,3,1]) = [1,1,2,3,4,5] 
 ```
 	challenge.sort = function(array) {
-		//code
-				    };
+				//code
+				         };
 ```				    
 
 
