@@ -38,6 +38,6 @@ _sample wireframe is in the github root folder named wireframe-project_
 ## challenge yourself :
   - use [DRY principle](https://stackoverflow.com/questions/18712338/make-header-and-footer-files-to-be-included-in-multiple-html-pages) : how headers and footers are shared through all pages
   
-  - use of [zipcode API] (https://www.zipcodeapi.com/)
+  - use of [zipcode API](https://www.zipcodeapi.com/)
   
   - use of [Geo location API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
